@@ -1,12 +1,16 @@
-# pelayanan problem solving divisi Bhabinkamtibmas Kepolisian sektor medan barat
+# Sistem Informasi Pelayanan Problem Solving Polisi Bhabinkamtibnas
 
-## 📄 Description
-A brief description of your project. Explain what it does, why it exists, and what makes it unique.
+## 📄 Deskripsi
+**Sistem Informasi Pelayanan Problem Solving Polisi** adalah aplikasi web yang dirancang untuk memfasilitasi pengaduan dan penyelesaian masalah yang dihadapi oleh masyarakat kepada pihak kepolisian. Aplikasi ini memungkinkan pengguna untuk mengajukan laporan atau aduan secara online, yang kemudian akan ditangani oleh petugas kepolisian sesuai dengan prosedur yang berlaku.
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+Sistem ini bertujuan untuk meningkatkan efisiensi dalam penanganan masalah dan memberikan akses yang lebih mudah kepada masyarakat untuk berkomunikasi dengan pihak kepolisian. Selain itu, aplikasi ini juga menyediakan fitur untuk memantau status aduan, sehingga pelapor dapat mengetahui perkembangan penanganan kasus mereka.
+
+## 🚀 Fitur
+- **Pengajuan Aduan**: Pengguna dapat mengajukan aduan atau laporan secara online melalui formulir yang disediakan.
+- **Pelacakan Status**: Pelapor dapat memantau status dan perkembangan aduan yang telah diajukan.
+- **Manajemen Aduan**: Petugas kepolisian dapat mengelola, menugaskan, dan menyelesaikan aduan yang masuk.
+- **Laporan **: Menyediakan laporan terkait aduan yang masuk untuk analisis lebih lanjut.
+
 
 
 ![1](https://github.com/user-attachments/assets/9af58d76-7567-4f83-b9de-c70900f604b1)
